@@ -1,0 +1,28 @@
+/* Globalne style */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #333;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 2rem; /* Odstęp od góry przy scrollowaniu */
+}
+
+/* Placeholders dla obrazków */
+img[src=""], img[src="/assets/images/hero-photo.jpg"],
+img[src="/assets/images/couple-round.jpg"],
+img[src="/assets/images/story-photo.jpg"] {
+  background: linear-gradient(135deg, #f8f6f4 0%, #e8e6e4 100%);
+  display: block;
+}
