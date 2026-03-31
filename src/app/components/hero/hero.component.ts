@@ -9,7 +9,7 @@ import { CommonModule } from '@angular/common';
     <section class="hero">
       <div class="hero-content">
         <h1 class="names">Anna & Mateusz</h1>
-        <p class="date">07 Sierpnia 2026</p>
+        <p class="date">7 Sierpnia 2026</p>
         
         <div class="countdown">
           <div class="countdown-item">

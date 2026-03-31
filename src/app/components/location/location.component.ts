@@ -16,14 +16,14 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
             <div class="icon">💒</div>
             <h3>Ceremonia</h3>
             <p class="time">18:00</p>
-            <p class="address">Ceremonia odbędzie się w altanie na wodzie na terenie obiektu</p>
+            <p class="address">Ceremonia odbędzie się w Altanie na Wodzie na terenie obiektu</p>
           </div>
 
           <div class="location-card">
             <div class="icon">🎉</div>
             <h3>Wesele</h3>
             <p class="time">18:30</p>
-            <p class="address">Wesele odbędzie się na sali brylantowej</p>
+            <p class="address">Wesele odbędzie się na sali Brylantowej</p>
           </div>
 
           <div class="location-card">

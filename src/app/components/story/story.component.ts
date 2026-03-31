@@ -12,24 +12,24 @@ import { CommonModule } from '@angular/common';
           <div class="story-text">
             <h2>Nasza Historia</h2>
             <p class="intro">
-              Poznaliśmy się przez znajomych w klubie — spontanicznie i bez wielkich oczekiwań. 
+              Poznaliśmy się przez znajomych w klubie, spontanicznie i bez wielkich oczekiwań. 
               Po tamtej nocy nasze drogi na chwilę się rozeszły, ale los chciał, byśmy spotkali się ponownie. 
               I właśnie wtedy wszystko zaczęło nabierać znaczenia.
             </p>
             <p>
-              Zaczęliśmy budować naszą relację powoli, na mocnym fundamencie przyjaźni — i to ona sprawiła, 
+              Zaczęliśmy budować naszą relację powoli, na mocnym fundamencie przyjaźni i to ona sprawiła, 
               że tak dobrze czujemy się w swoim towarzystwie. Znamy się jak nikt inny: potrafimy śmiać się 
               i płakać razem, wspierać się w każdej chwili i tworzyć niezapomniane wspomnienia.
             </p>
             <p>
               Oboje jesteśmy ekstrawertykami, lubimy urozmaicać sobie wolny czas, dlatego nigdy nie jest nam 
-              ze sobą nudno. Łączy nas miłość do podróży, silne więzi rodzinne oraz ogromne serce do zwierząt 
-              — ale tak naprawdę łączy nas coś znacznie więcej: poczucie bezpieczeństwa, zaufanie i świadomość, 
+              ze sobą nudno. Łączy nas miłość do podróży, silne więzi rodzinne oraz radość z bycia razem,
+              ale tak naprawdę łączy nas coś znacznie więcej: poczucie bezpieczeństwa, zaufanie i świadomość, 
               że przy tej drugiej osobie zawsze możemy być sobą.
             </p>
             <p class="highlight">
               Po ośmiu wspólnych latach wiemy, że przyjaźń stała się miłością, a miłość domem, 
-              do którego codziennie chcemy wracać — i właśnie to zaprowadziło nas aż tutaj 💍✨
+              do którego codziennie chcemy wracać i właśnie to zaprowadziło nas aż tutaj 💍✨
             </p>
           </div>
           <div class="story-image">

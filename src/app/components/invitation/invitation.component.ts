@@ -16,7 +16,7 @@ import { CommonModule } from '@angular/common';
             <div class="details">
               <div class="detail-item">
                 <span class="icon">📅</span>
-                <span class="text">07 Sierpnia 2026</span>
+                <span class="text">7 Sierpnia 2026</span>
               </div>
               <div class="detail-item">
                 <span class="icon">🕔</span>

@@ -16,7 +16,7 @@ import { CommonModule } from '@angular/common';
             <h3>Dress Code</h3>
             <p><strong>Wesele:</strong> Elegancki strój</p>
             <p class="separator">• • •</p>
-            <p><strong>Poprawiny:</strong> Luz i wygoda — spotykamy się przy grillu!</p>
+            <p><strong>Poprawiny:</strong> Elegancko, ale na luzie!</p>
           </div>
 
           <div class="guide-card">
