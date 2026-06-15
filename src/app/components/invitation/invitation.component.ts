@@ -30,7 +30,7 @@ import { CommonModule } from '@angular/common';
 
             <div class="message">
               <p>Chcemy, abyście byli z nami w ten wyjątkowy dzień.</p>
-              <p class="rsvp-deadline">Prosimy o potwierdzenie swojego przybycia do <strong>7 czerwca 2026</strong>.</p>
+              <p class="rsvp-deadline">Prosimy o potwierdzenie swojego przybycia do <strong>7 lipca 2026</strong>.</p>
               <p class="thanks">Z góry dziękujemy i z niecierpliwością czekamy na wspólną celebrację!</p>
             </div>
 
